@@ -1,5 +1,5 @@
 
-FROM ndongeo/centos-httpd
+FROM ndongelo/centos-httpd
 
 MAINTAINER aureliondongelo@gmail.com
 
